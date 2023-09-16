@@ -15,8 +15,11 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Reasons why I love CS 19300:
+- Hey! I just realized that I have been working on a faulty github account for the past 4 weeks! Now this one is working properly and can show stuff on an external website!
+- As such, the CS 19300 team is super compassionate and understanding, and will thus forgive me for being a bafoon ;)
+- I love the explanations and pace of the class
+- The memes and images are hilarious
 
 1. Numbered
 2. List
